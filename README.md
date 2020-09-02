@@ -1,3 +1,3 @@
 # Titanic Survival Prediction - Kaggle Competition
 
-The goal is to get familiar with the machine learning basics
+My goal is not to get first place in the competition but to get familiar with machine learning fundamentals 
